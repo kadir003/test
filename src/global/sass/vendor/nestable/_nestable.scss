@@ -1,0 +1,16 @@
+.nestable {
+    padding: $line-height-computed;
+    padding-left: 0;
+
+    >.dd-list:first-child, >.dd-list:last-child {
+        margin: 0;
+    }
+}
+
+.dd {
+    max-width: 100%;
+}
+
+.dd-list {
+    padding-left: $line-height-computed;
+}

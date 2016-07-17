@@ -1,0 +1,38 @@
+{
+  "name": "rubix",
+  "version": "3.2.0",
+  "authors": [
+    "SketchPixy (support@sketchpixy.com)"
+  ],
+  "copyright": "SketchPixy LLP, email: support@sketchpixy.com",
+  "description": "Rubix - ReactJS Admin Template",
+  "moduleType": [
+    "es6",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "rubix",
+    "admin",
+    "sketchpixy",
+    "reactjs"
+  ],
+  "homepage": "http://rubix320.sketchpixy.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "eventemitter2": "~0.4.14",
+    "jquery": "~2.1.4",
+    "react": "^15.0.1",
+    "PACE": "pace#~1.0.2",
+    "perfect-scrollbar": "~0.6.7",
+    "bootstrap-sass": "~3.3.6"
+  }
+}
